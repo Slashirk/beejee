@@ -1,0 +1,8 @@
+{
+    "require": {
+        "doctrine/dbal": "^2.10",
+        "ezyang/htmlpurifier": "^4.12",
+        "symfony/validator": "^5.0",
+        "voku/pagination": "^4.0"
+    }
+}
